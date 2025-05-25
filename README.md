@@ -59,7 +59,7 @@ Create .env files in server/ and ai-service/. Example:
 server/.env
 PORT=5001
 MONGO_URI=mongodb://localhost:27017/your-db-name
-AI_SERVICE_URL=http://localhost:5002
+AI_SERVICE_URL=http://localhost:8000
 ai-service/.env
 
 PORT=5002
